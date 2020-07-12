@@ -3,7 +3,7 @@
 <!--
 **balaaagi/balaaagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm Balaji Srinivasan , an engineer  based out of Be-ngaluru, India. 
+I'm Balaji Srinivasan , an engineer  based out of Bengaluru, India. 
 
 
 I used to work for an Indian Unicorn [Zomato](https://www.zomato.com/) as part of the logistics engineering team as Lead engineer. Played around Rails, GoLang and also fiddling with Java. <br>
